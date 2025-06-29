@@ -72,7 +72,6 @@
     </td>
   </tr>
   <tr>
-  <td align="center" width="96">
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
@@ -126,7 +125,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" alt="Redux" />
       <br>Redux
     </td>
-      <td align="center" width="96">
+ </tr>
+<tr>
+        <td align="center" width="96">
   <!-- Vite -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50" alt="Vite" />
       <br>Vite
@@ -146,8 +147,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring Boot" />
       <br>Spring Boot
     </td>
- </tr>
-
+</tr>
 </table>
 <br><br>
   
