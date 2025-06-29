@@ -44,9 +44,6 @@
 
 ## 🛠️ Languages & Tools
 <p align="center">
-  
-  <img src="![image](https://github.com/user-attachments/assets/83e8dbe9-19a7-45a0-bf7f-682220b3df80)
-" width="150" alt="React" style="animation: bounce 2s infinite;" />
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWUydTMzaGMyYWUxcjFqN3Bib2E2N2xiNGJjb29leWNjbG5hNDVvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.gif" width="150" alt="React" style="animation: bounce 2s infinite;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" style="animation: bounce 2s infinite;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
