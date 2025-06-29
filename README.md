@@ -92,6 +92,11 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
+        <td align="center" width="96">
+  <!-- Redux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" alt="Redux" />
+      <br>Redux
+    </td>
   </tr>
  <tr>
       <td align="center" width="96">
@@ -120,11 +125,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js" />
       <br>Next.js
     </td>
-    <td align="center" width="96">
-  <!-- Redux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" alt="Redux" />
-      <br>Redux
-    </td>
+
  </tr>
 <tr>
         <td align="center" width="96">
