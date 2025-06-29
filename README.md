@@ -150,21 +150,4 @@
     </td>
 </tr>
 </table>
-<br><br>
-  
-<p align="center">
-  <!-- React (GIF) -->
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/react.gif" width="150" alt="React" />
-  <!-- JavaScript (GIF) -->
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/js.gif" width="150" alt="JavaScript" />
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" />
-  <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" />
-  <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" />
-  <!-- Tailwind CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" alt="Tailwind CSS" />
-
-</p>
 
