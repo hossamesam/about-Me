@@ -118,8 +118,12 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+    <td align="center" width="96">
     <!-- Next.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js" />
+      <br>Next.js
+    </td>
+
   <!-- Redux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" alt="Redux" />
   <!-- Vite -->
