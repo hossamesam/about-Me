@@ -126,27 +126,27 @@
     <td align="center" width="96">
   <!-- Redux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" alt="Redux" />
-      <br>Next.js
+      <br>Redux
     </td>
       <td align="center" width="96">
   <!-- Vite -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50" alt="Vite" />
-      <br>Next.js
+      <br>Vite
     </td>
       <td align="center" width="96">
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
-      <br>Next.js
+      <br>Java
     </td>
       <td align="center" width="96">
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
-      <br>Next.js
+      <br>MySQL
     </td>
       <td align="center" width="96">
   <!-- Spring Boot -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring Boot" />
-      <br>Next.js
+      <br>Spring Boot
     </td>
  </tr>
 
