@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 About Me</h1>
-
+<h1 align="center">👋🏻 Hossam Esam-eldean</h1>
 <p align="center">
   I'm a <strong>Frontend Developer</strong> from <strong>Giza, Egypt 🇪🇬</strong><br />
   🔭 Passionate about building responsive, user-friendly apps using the latest frontend technologies.<br />
@@ -17,6 +17,7 @@
 | ⚛️ **React**        | Library for building UI components         |
 | 🟦 **TypeScript**   | Typed superset of JavaScript               |
 | 🧩 **HTML** / **CSS** | Structure and styling of the web           |
+| 💫 **mui** | Library for building UI components           |
 | 🎨 **Tailwind CSS** | Utility-first CSS framework                |
 | 🌐 **Next.js**      | React framework with SSR support           |
 | 🧠 **Redux Toolkit**| State management made easy                 |
@@ -27,7 +28,6 @@
 ---
 
 ### 🧰 Backend:
-
 - ☕ Java  
 - 🗃️ SQL (MySQL, PostgreSQL)  
 - 🌱 Spring Boot  
